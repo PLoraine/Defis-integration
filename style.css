@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	background-color: grey;
+}
+
+.le_formulaire{
+	display: flex;
+	flex-direction: row;
+	border: 2px solid black;
+	
+
+}
+
+#titre, #theme, #date{
+	margin-left :50px;
+}
+
+.un, .deux, .trois, .quatre, .cinq{
+	margin: 20px;
+
+}
