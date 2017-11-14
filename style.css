@@ -1,3 +1,40 @@
+.content{
+    background-color: #E3DFDF
+    
+}
+
+.titre_search_addvideo{
+	background-color: red;
+}
+
+.menu{
+	background-color: #A70909;
+}
+.search{
+	text-align: center;
+}
+
+.menu li{
+		
+		display: inline;
+}
+
+.menu{
+	margin: -17px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.categories{
+	display: flex;
+	justify-content: space-around;
+	color: white;
+}
+
+.formulaire_content{
+	background-color: #F2F2F2;
+}
+
 h1{
 	text-align: center;
 	background-color: grey;
@@ -6,6 +43,7 @@ h1{
 	text-decoration-color: red;
 
 }
+
 
 #sous_cadre{
 	background-color: red;
@@ -57,3 +95,4 @@ iframe{
 	font-size: 26px;
 	background-color: #DB1B1B;
 }
+
